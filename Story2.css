@@ -1,11 +1,11 @@
 .navbar-rafif {
-    min-height: 13% !important;
+    min-height: 10% !important;
     background-color: black !important;
 }
 .navbar-rafif a{
     margin-inline-end: 100px !important;
     margin-inline-start: 100px !important;
-    font-size: 24px !important;
+    font-size: 22px !important;
 
 }
 
@@ -49,10 +49,9 @@ body{
     color: white;   
     position: absolute;
     top: 53%;
-    -size: 72px;
+    font-size: 72px;
 }
 .line-container{
-    margin-top: 8%;
     margin-left: auto;
     margin-right: auto;
 
@@ -66,4 +65,7 @@ body{
 }
 .inline{
     float: left;
+}
+.bio p{
+    font-size: 25px;
 }
