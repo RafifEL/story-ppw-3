@@ -78,6 +78,10 @@ body{
     max-width: 150px;
     margin-left: 35%;
 }
+.icon-skill{
+    max-width: 130px;
+    margin-left: 35%;
+}
 .icon-name{
     font-size: 150%;
     color: bisque;
