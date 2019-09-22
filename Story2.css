@@ -67,5 +67,25 @@ body{
     float: left;
 }
 .bio p{
-    font-size: 25px;
+    font-size: 150%;
+}
+
+.icon{
+    max-width: 150px;
+    margin-left: 32%;
+}
+.icon-walk{
+    max-width: 150px;
+    margin-left: 35%;
+}
+.icon-name{
+    font-size: 150%;
+    color: bisque;
+    margin-left: 8%;
+    text-align: center;
+    margin-top: 2%;
+}
+.deskripsi{
+    text-align: center !important;
+    font-size: 160%;
 }
