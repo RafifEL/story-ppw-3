@@ -14,7 +14,7 @@
 }
 
 .hlmn-satu{
-    background-image: url("./wallpaper.jpg"); 
+    background-image: url("../Assets/wallpaper.jpg"); 
     background-size: cover;
     align-items: center;
     justify-content: center;
