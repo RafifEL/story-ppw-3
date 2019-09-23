@@ -6,7 +6,6 @@
     margin-inline-end: 100px !important;
     margin-inline-start: 100px !important;
     font-size: 22px !important;
-
 }
 
 .all-hlmn{
@@ -30,6 +29,10 @@ body{
     font-family: 'Muli'!important;
     color: #000000 !important;
     font-weight: bolder !important;
+}
+
+.title-content{
+    color: antiquewhite;
 }
 
 .grey-box{
@@ -92,4 +95,16 @@ body{
 .deskripsi{
     text-align: center !important;
     font-size: 160%;
+}
+.link{
+    color: rgb(156, 153, 152);
+}
+.link:hover{
+    color: rgb(64, 62, 61);
+}
+.photo-const{
+    filter: blur(10px)
+}
+.photo-const:hover{
+    filter: blur(0px)
 }
